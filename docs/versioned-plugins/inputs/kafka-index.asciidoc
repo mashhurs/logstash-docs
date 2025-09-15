@@ -5,6 +5,21 @@ include::{include_path}/version-list-intro.asciidoc[]
 
 |=======================================================================
 | Version | Release Date
+| <<v11.6.4-plugins-inputs-kafka,v11.6.4>> | 2025-08-28
+| <<v11.6.3-plugins-inputs-kafka,v11.6.3>> | 2025-06-12
+| <<v11.6.2-plugins-inputs-kafka,v11.6.2>> | 2025-05-21
+| <<v11.6.1-plugins-inputs-kafka,v11.6.1>> | 2025-05-08
+| <<v11.6.0-plugins-inputs-kafka,v11.6.0>> | 2025-01-07
+| <<v11.5.4-plugins-inputs-kafka,v11.5.4>> | 2024-12-18
+| <<v11.5.3-plugins-inputs-kafka,v11.5.3>> | 2024-11-25
+| <<v11.5.2-plugins-inputs-kafka,v11.5.2>> | 2024-10-04
+| <<v11.5.1-plugins-inputs-kafka,v11.5.1>> | 2024-07-26
+| <<v11.5.0-plugins-inputs-kafka,v11.5.0>> | 2024-07-02
+| <<v11.4.2-plugins-inputs-kafka,v11.4.2>> | 2024-05-17
+| <<v11.4.1-plugins-inputs-kafka,v11.4.1>> | 2024-04-10
+| <<v11.4.0-plugins-inputs-kafka,v11.4.0>> | 2024-04-09
+| <<v11.3.4-plugins-inputs-kafka,v11.3.4>> | 2024-02-06
+| <<v11.3.3-plugins-inputs-kafka,v11.3.3>> | 2024-01-09
 | <<v11.3.2-plugins-inputs-kafka,v11.3.2>> | 2023-10-16
 | <<v11.3.1-plugins-inputs-kafka,v11.3.1>> | 2023-10-04
 | <<v11.3.0-plugins-inputs-kafka,v11.3.0>> | 2023-07-04
@@ -12,6 +27,7 @@ include::{include_path}/version-list-intro.asciidoc[]
 | <<v11.2.0-plugins-inputs-kafka,v11.2.0>> | 2023-02-14
 | <<v11.1.0-plugins-inputs-kafka,v11.1.0>> | 2023-01-25
 | <<v11.0.0-plugins-inputs-kafka,v11.0.0>> | 2022-12-16
+| <<v10.12.2-plugins-inputs-kafka,v10.12.2>> | 2025-02-12
 | <<v10.12.1-plugins-inputs-kafka,v10.12.1>> | 2023-10-16
 | <<v10.12.0-plugins-inputs-kafka,v10.12.0>> | 2022-05-09
 | <<v10.11.0-plugins-inputs-kafka,v10.11.0>> | 2022-04-25
@@ -59,6 +75,21 @@ include::{include_path}/version-list-intro.asciidoc[]
 | <<v6.3.0-plugins-inputs-kafka,v6.3.0>> | 2017-05-11
 |=======================================================================
 
+include::kafka-v11.6.4.asciidoc[]
+include::kafka-v11.6.3.asciidoc[]
+include::kafka-v11.6.2.asciidoc[]
+include::kafka-v11.6.1.asciidoc[]
+include::kafka-v11.6.0.asciidoc[]
+include::kafka-v11.5.4.asciidoc[]
+include::kafka-v11.5.3.asciidoc[]
+include::kafka-v11.5.2.asciidoc[]
+include::kafka-v11.5.1.asciidoc[]
+include::kafka-v11.5.0.asciidoc[]
+include::kafka-v11.4.2.asciidoc[]
+include::kafka-v11.4.1.asciidoc[]
+include::kafka-v11.4.0.asciidoc[]
+include::kafka-v11.3.4.asciidoc[]
+include::kafka-v11.3.3.asciidoc[]
 include::kafka-v11.3.2.asciidoc[]
 include::kafka-v11.3.1.asciidoc[]
 include::kafka-v11.3.0.asciidoc[]
@@ -66,6 +97,7 @@ include::kafka-v11.2.1.asciidoc[]
 include::kafka-v11.2.0.asciidoc[]
 include::kafka-v11.1.0.asciidoc[]
 include::kafka-v11.0.0.asciidoc[]
+include::kafka-v10.12.2.asciidoc[]
 include::kafka-v10.12.1.asciidoc[]
 include::kafka-v10.12.0.asciidoc[]
 include::kafka-v10.11.0.asciidoc[]
